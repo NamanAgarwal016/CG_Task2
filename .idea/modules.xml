@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android-Image-Slider-master.iml" filepath="$PROJECT_DIR$/Android-Image-Slider-master.iml" group="Android-Image-Slider-master" />
+      <module fileurl="file://$PROJECT_DIR$/CG_Task2.iml" filepath="$PROJECT_DIR$/CG_Task2.iml" group="CG_Task2" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="CG_Task2/app" />
+      <module fileurl="file://$PROJECT_DIR$/autoimageslider/autoimageslider.iml" filepath="$PROJECT_DIR$/autoimageslider/autoimageslider.iml" group="CG_Task2/autoimageslider" />
+    </modules>
+  </component>
+</project>
